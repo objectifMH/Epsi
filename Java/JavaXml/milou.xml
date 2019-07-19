@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<chien>
+<nom>milou</nom>
+<maitre>
+<nom>tintin</nom>
+<adresse>chateau de moulinsart</adresse>
+</maitre>
+<puces>5</puces>
+</chien>

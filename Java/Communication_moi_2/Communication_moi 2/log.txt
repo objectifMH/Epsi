@@ -1,0 +1,108 @@
+ Thu Jul 11 16:33:46 CEST 2019 > P;MArlene
+Fri Jul 12 08:44:23 CEST 2019 > P;Marlene
+Fri Jul 12 08:44:38 CEST 2019 > P;ELoise
+Fri Jul 12 08:44:52 CEST 2019 > All;Tout le monde va bien 
+Fri Jul 12 08:46:47 CEST 2019 > Q;
+Fri Jul 12 08:50:28 CEST 2019 > P;Marjorie
+Fri Jul 12 08:50:31 CEST 2019 > L;
+Fri Jul 12 08:50:52 CEST 2019 > P;Margot
+Fri Jul 12 08:51:08 CEST 2019 > L;
+Fri Jul 12 08:51:30 CEST 2019 > P;Mzth
+Fri Jul 12 08:51:50 CEST 2019 > To;SALit tu te portes bien ;0
+Fri Jul 12 08:52:10 CEST 2019 > L;
+Fri Jul 12 08:52:15 CEST 2019 > Q;
+Fri Jul 12 08:52:33 CEST 2019 > P;Marion
+Fri Jul 12 08:52:38 CEST 2019 > All; Salut 
+Fri Jul 12 09:00:12 CEST 2019 > Q;
+Fri Jul 12 09:05:57 CEST 2019 0 : Martha > P;Martha
+Date : Fri Jul 12 09:08:12 CEST 2019 ; Id : 0 ; Nom :  Marco > P;Marco
+Date : Fri Jul 12 09:10:00 CEST 2019 / Id : 0 / Nom :  Marco  / Content : P;Marco 
+Date : Fri Jul 12 09:10:27 CEST 2019 / Id : 0 / Nom :  Marco  / Content : Q;
+Il y a 1 cliens connecté(es)
+Date : Fri Jul 12 09:16:58 CEST 2019 / Id : 0 / Nom :  Marco  / Content : P;Marco 
+Il y a 1 client(s) connecté(s)
+Date : Fri Jul 12 09:24:21 CEST 2019 / Id : 0 / Nom :  Leila / Content : P;Leila
+Il y a 2 client(s) connecté(s)
+Date : Fri Jul 12 09:24:31 CEST 2019 / Id : 1 / Nom :  Melissa / Content : P;Melissa
+Il y a 3 client(s) connecté(s)
+Date : Fri Jul 12 09:24:46 CEST 2019 / Id : 2 / Nom :  Christophe / Content : P;Christophe
+Date : Fri Jul 12 09:25:19 CEST 2019 / Id : 0 / Nom :  Leila / Content : All;Comment Allez vous ? 
+Date : Fri Jul 12 09:26:11 CEST 2019 / Id : 1 / Nom :  Melissa / Content : To;Salut tu peux m'envoyez ton numéro ? ;0
+Date : Fri Jul 12 09:26:37 CEST 2019 / Id : 1 / Nom :  Melissa / Content : L;
+Il y a 4 client(s) connecté(s)
+Date : Fri Jul 12 09:26:50 CEST 2019 / Id : 3 / Nom :  David / Content : P;David
+Date : Fri Jul 12 09:26:56 CEST 2019 / Id : 3 / Nom :  David / Content : All;J'ai rien moi 
+Il y a 5 client(s) connecté(s)
+Date : Fri Jul 12 09:27:33 CEST 2019 / Id : 4 / Nom :  Leila / Content : P;Leila
+Date : Fri Jul 12 09:27:45 CEST 2019 / Id : 4 / Nom :  Leila / Content : All; Salut touttttt le monnndeeeeeuuuhhhhh !!!!! 
+David se deconnecte
+Il y a 4 client(s) connecté(s)
+Date : Fri Jul 12 09:28:12 CEST 2019 / Id : 3 / Nom :  David / Content : Q;
+Date : Fri Jul 12 09:28:24 CEST 2019 / Id : 4 / Nom :  Leila / Content : L;
+Date : Fri Jul 12 09:28:25 CEST 2019 / Id : 4 / Nom :  Leila / Content : 
+Il y a 5 client(s) connecté(s)
+Date : Fri Jul 12 09:28:36 CEST 2019 / Id : 5 / Nom :  Lisa / Content : P;Lisa
+Date : Fri Jul 12 09:29:03 CEST 2019 / Id : 5 / Nom :  Lisa / Content : L;
+Date : Fri Jul 12 09:29:06 CEST 2019 / Id : 5 / Nom :  Lisa / Content : l
+Date : Fri Jul 12 09:29:20 CEST 2019 / Id : 1 / Nom :  Melissa / Content : popopopop
+Il y a 1 client(s) connecté(s)
+Date : Fri Jul 12 09:36:40 CEST 2019 / Id : 0 / Nom :   Leila  / Content : P; Leila 
+ Leila  se deconnecte
+Il y a 0 client(s) connecté(s)
+Date : Fri Jul 12 09:36:45 CEST 2019 / Id : 0 / Nom :   Leila  / Content : Q;
+Il y a 1 client(s) connecté(s)
+Date : Fri Jul 12 09:38:18 CEST 2019 / Id : 0 / Nom :  leila / Content : P;leila
+leila se deconnecte
+Il y a 0 client(s) connecté(s)
+Date : Fri Jul 12 09:38:20 CEST 2019 / Id : 0 / Nom :  leila / Content : Q;
+Il y a 1 client(s) connecté(s)
+Date : Fri Jul 12 09:44:52 CEST 2019 / Id : 0 / Nom :  Caroline  / Content : P;Caroline 
+Caroline  se deconnecte
+Il y a 0 client(s) connecté(s)
+Date : Fri Jul 12 09:44:55 CEST 2019 / Id : 0 / Nom :  Caroline  / Content : Q;
+Il y a 1 client(s) connecté(s)
+Il y a 2 client(s) connecté(s)
+Date : Fri Jul 12 09:49:14 CEST 2019 / Id : 1 / Nom :  null / Content : All; Salut 
+null se deconnecte
+Il y a 1 client(s) connecté(s)
+Date : Fri Jul 12 09:49:25 CEST 2019 / Id : 0 / Nom :  null / Content : Q;
+Il y a 2 client(s) connecté(s)
+Il y a 1 client(s) connecté(s)
+Il y a 1 client(s) connecté(s)
+null se deconnecte
+Il y a 0 client(s) connecté(s)
+Date : Fri Jul 12 10:02:08 CEST 2019 / Id : 0 / Nom :  null / Content : Q;
+Il y a 1 client(s) connecté(s)
+Date : Fri Jul 12 10:03:07 CEST 2019 / Id : 0 / Nom :  Marto / Content : P;Marto
+Marto se deconnecte
+Il y a 0 client(s) connecté(s)
+Date : Fri Jul 12 10:03:13 CEST 2019 / Id : 0 / Nom :  Marto / Content : Q;
+Il y a 1 client(s) connecté(s)
+Date : Fri Jul 12 10:10:00 CEST 2019 / Id : 0 / Nom :  Leila / Content : P;Leila
+Leila se deconnecte
+Il y a 0 client(s) connecté(s)
+Date : Fri Jul 12 10:10:02 CEST 2019 / Id : 0 / Nom :  Leila / Content : Q;
+Il y a 1 client(s) connecté(s)
+Date : Fri Jul 12 10:12:40 CEST 2019 / Id : 0 / Nom :  timothy / Content : P;timothy
+Date : Fri Jul 12 10:13:11 CEST 2019 / Id : 0 / Nom :  timothy / Content : All;hello tous 
+Il y a 2 client(s) connecté(s)
+Date : Fri Jul 12 10:14:06 CEST 2019 / Id : 1 / Nom :  Tom / Content : P;Tom
+Date : Fri Jul 12 10:14:10 CEST 2019 / Id : 1 / Nom :  Tom / Content : hello
+Date : Fri Jul 12 10:14:34 CEST 2019 / Id : 1 / Nom :  Tom / Content : All;Hello !
+Il y a 3 client(s) connecté(s)
+Date : Fri Jul 12 10:14:57 CEST 2019 / Id : 2 / Nom :  Helisa / Content : P;Helisa
+Date : Fri Jul 12 10:15:09 CEST 2019 / Id : 2 / Nom :  Helisa / Content : L;
+Il y a 4 client(s) connecté(s)
+Date : Fri Jul 12 10:15:32 CEST 2019 / Id : 3 / Nom :  Bob / Content : P;Bob
+Date : Fri Jul 12 10:15:40 CEST 2019 / Id : 3 / Nom :  Bob / Content : All;Salut tout le monde ! !!!
+Date : Fri Jul 12 10:16:33 CEST 2019 / Id : 2 / Nom :  Helisa / Content : To;Chouette je t'attendais;1
+Date : Fri Jul 12 10:16:49 CEST 2019 / Id : 1 / Nom :  Tom / Content : L;
+Date : Fri Jul 12 10:16:58 CEST 2019 / Id : 1 / Nom :  Tom / Content : To;Mon amour ;2
+Bob se deconnecte
+Il y a 3 client(s) connecté(s)
+Date : Fri Jul 12 10:17:32 CEST 2019 / Id : 3 / Nom :  Bob / Content : Q;
+Il y a 1 client(s) connecté(s)
+Il y a 2 client(s) connecté(s)
+null se deconnecte
+Il y a 1 client(s) connecté(s)
+Date : Fri Jul 12 10:27:12 CEST 2019 / Id : 1 / Nom :  null / Content : Q;
